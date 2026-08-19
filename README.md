@@ -1,0 +1,1 @@
+Carrinho de compras primeiro feito em HTML e depois repassado para JavaScript.

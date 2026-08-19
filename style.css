@@ -1,0 +1,23 @@
+img {
+    width: 320px;
+    height: 320px;
+}
+
+header {
+    padding: 12px 24px;
+}
+
+header h1 {
+    color: #000000;
+}
+
+main {
+    display: flex;
+    flex-direction: center;
+    align-items: center;
+    gap: 32px;
+    height: 89vh;
+    justify-content: center;
+}
+
+
