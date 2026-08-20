@@ -19,7 +19,7 @@ function mostrarProdutos() {
     </header>
     <main class="container">
     <div class="produtos">
-        <img src="./img/Playstation1.png" alt="Playstation 1">
+        <img src="./img/Polystation.png" alt="Playstation 1">
         <p>Playstation 1</p>
         <button onclick="adicionarCarrinho(1)">Adicionar ao Carrinho</button>
     </div>
