@@ -21,26 +21,31 @@ function mostrarProdutos() {
     <div class="produtos">
         <img src="./img/Polystation.png" alt="Playstation 1">
         <p>Playstation 1</p>
+        <p>R$ 1000,00</p>
         <button onclick="adicionarCarrinho(1)">Adicionar ao Carrinho</button>
     </div>
      <div class="produtos">
         <img src="./img/Playstation 2.png" alt="Playstation 2">
         <p>Playstation 2</p>
+        <p>R$ 1500,00</p>
         <button onclick="adicionarCarrinho(2)">Adicionar ao Carrinho</button>
     </div>
     <div class="produtos">
         <img src="./img/Playstation 3.png" alt="Playstation 3">
         <p>Playstation 3</p>
+        <p>R$ 1000,90</p>
         <button onclick="adicionarCarrinho(3)">Adicionar ao Carrinho</button>
     </div>
     <div class="produtos">
         <img src="./img/Playstation 4.png" alt="Playstation 4">
         <p>Playstation 4</p>
+        <p>R$ 1700,00</p>
         <button onclick="adicionarCarrinho(4)">Adicionar ao Carrinho</button>
     </div>
     <div class="produtos">
         <img src="./img/Playstation 5.png" alt="Playstation 5">
         <p>Playstation 5</p>
+        <p>R$ 3700,00</p>
         <button onclick="adicionarCarrinho(5    )">Adicionar ao Carrinho</button>
     </div>
     <div class="carrinho">
